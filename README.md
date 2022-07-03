@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Güven Çabat
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://www.canva.com/design/DAFFVulyHcM/BdCwSMpxykxmhw7UqR63xg/edit?utm_content=DAFFVulyHcM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<!--
-**fakepokeball/fakepokeball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been using computers since 98, I have experienced many things about computers as both hardware and software, I have used many different programs, so when I encounter something new, I can adapt very quickly.I learned C# and Unity  from videos and documents. After graduation, I take a course of JavaScript and learned JS and after that  I signed up another course for carrying my C# and .NET skills to next level.
 
-Here are some ideas to get you started:
+Skills:  C#/.NET/REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
